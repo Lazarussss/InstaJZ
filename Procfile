@@ -1,0 +1,1 @@
+web: gunicorn InstJZ.wsgi --log-file -
